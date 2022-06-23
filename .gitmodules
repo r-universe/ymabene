@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Counternull"]
+	path = Counternull
+	url = https://github.com/ymabene/counternull
+	shallow = true
+	registered = true
